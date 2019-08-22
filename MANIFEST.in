@@ -1,0 +1,2 @@
+recursive-include wagtailmegadraft/static *
+recursive-include wagtailmegadraft/templates *
